@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://textiles.ncsu.edu/tatm/'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: To infinity and beyond
+# subtitle: <a href=''>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -25,4 +26,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am Wenna Han (韩文娜), a Ph.D. student at Wilson College of Textiles, North Carolina State University.
+I am Wenna Han (韩文娜), a third-year Ph.D. student at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/), North Carolina State University, advised by [Prof. Yingjiao Xu](https://textiles.ncsu.edu/people/yxu11/). I also recieved my Master of Science degree at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/) in 2021. Prior to that, I received a Bachelor of Science in Textile Engineering with a minor in public relations at [Donghua University](https://english.dhu.edu.cn/) in 2020.
+
+My research interests span Consumer Behavior, Fashion & Textiles and Marketing Analysis.
