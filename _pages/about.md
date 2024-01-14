@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: To infinity and beyond
 # subtitle: <a href=''>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -10,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 4404</p>
+    <p>1020 Main Campus Drive</p>
+    <p>Raleigh, NC 27695</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,6 +25,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am Wenna Han (韩文娜), a third-year Ph.D. student at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/), North Carolina State University, advised by [Prof. Yingjiao Xu](https://textiles.ncsu.edu/people/yxu11/). I also recieved my Master of Science degree at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/) in 2021. Prior to that, I received a Bachelor of Science in Textile Engineering with a minor in public relations at [Donghua University](https://english.dhu.edu.cn/) in 2020.
+Hi, this is Wenna Han, a third-year Ph.D. student at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/) at [North Carolina State University](https://www.ncsu.edu), advised by [Dr. Yingjiao Xu](https://textiles.ncsu.edu/people/yxu11/). My research primarily focuses on consumer behavior regarding innovations and technologies within the fashion industry. I also received my Master of Science degree in Textiles with a minor in Statistics at [North Carolina State University](https://www.ncsu.edu). Prior to that, I got my Bachelor of Science degree in Textile Engineering and Textile Design with a minor in Public Relations at [Donghua University](https://english.dhu.edu.cn/).
 
-My research interests span Consumer Behavior, Fashion & Textiles and Marketing Analysis.
+My scholarly pursuits are deeply rooted in understanding consumer behavior within the rapidly evolving fashion and retail industries. At the core of my research is the exploration of how novel products and innovative retail technologies reshape consumer perceptions and experiences. I am also intrigued by the dynamics of consumer well-being and shopping behaviors in rapidly changing market environments.
