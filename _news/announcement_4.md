@@ -6,4 +6,4 @@ related_posts: false
 display: true
 ---
 
-I got married!
+I got married! 💍 💓 🥳

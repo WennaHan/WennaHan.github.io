@@ -11,7 +11,7 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-I am passionate about teaching students from all backgrounds, and I have continuously developed my teaching skills through the Teaching Assistant role in the past four years. I have assisted in both undergraduate and graduate courses, giving several lectures and instructing data analysis lab sessions. I have also served as an independent instructor for the week-long summer program targeting prospective high school students, for which, I designed and delivered a curriculum. Additionally, I have mentored seven undergraduate students for their research projects, preparing them for various academic competitions.
+I am passionate about teaching students from all backgrounds, and I have continuously developed my teaching skills through the Teaching Assistant role in the past four years. I have assisted in both undergraduate and graduate courses, giving several lectures and instructing data analysis lab sessions. I have also served as an independent instructor for the week-long summer program targeting prospective high school students. Additionally, I have mentored seven undergraduate students for their research projects, preparing them for various academic competitions.
 
 
 Courses Assisted:
