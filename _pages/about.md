@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 4404</p>
-    <p>1020 Main Campus Drive</p>
-    <p>Raleigh, NC 27695</p>
+    <p>432-6 Wohlers Hall</p>
+    <p>1206 S Sixth St</p>
+    <p>Champaign, IL 61820</p>
 
 news: true  # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -25,6 +25,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I'm Wenna Han, currently a Ph.D. candidate at [Wilson College of Textiles](https://textiles.ncsu.edu/tatm/), [North Carolina State University](https://www.ncsu.edu), advised by [Dr. Yingjiao Xu](https://textiles.ncsu.edu/people/yxu11/). I also received my Master of Science degree in Textiles with a minor in Statistics at [North Carolina State University](https://www.ncsu.edu). Prior to that, I got my Bachelor of Science degree in Textile Engineering and Textile Design with a minor in Public Relations at [Donghua University](https://english.dhu.edu.cn/).
+Hi, I’m Wenna Han, currently a Postdoctoral Research Fellow in Marketing at the [Gies College of Business](https://giesbusiness.illinois.edu/), University of Illinois Urbana-Champaign. I received my Ph.D. in Textile Technology Management from North Carolina State University in 2024.
 
 My scholarly pursuits are rooted in understanding consumer behavior within the evolving fashion and retail industries. My primary research interest is to explore how novel products and innovative retail technologies reshape consumer perceptions and experiences. I am also intrigued by the dynamics of consumer well-being and shopping behaviors in rapidly changing market environments.
